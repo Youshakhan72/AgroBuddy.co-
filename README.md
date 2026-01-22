@@ -2,6 +2,8 @@
 
 A modern, mobile-friendly frontend demo website for Indian farmers, built for hackathon presentation.
 
+AgroBuddy is an AI-based helper which plays an important role in Rural support and agriculture.
+
 ## Features
 
 - 🌾 **Crop Recommendation** - AI-powered crop suggestions based on soil, season, and location
@@ -151,4 +153,3 @@ agritech/
 ## License
 
 Built for Hackathon Demo
-
